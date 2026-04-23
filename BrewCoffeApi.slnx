@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BrewCoffeApi/BrewCoffeeApi.csproj" />
+  <Project Path="BrewCoffeeApi.Tests/BrewCoffeeApi.Tests.csproj" Id="31ac4386-2f78-4776-9780-552e9f428a5c" />
+</Solution>

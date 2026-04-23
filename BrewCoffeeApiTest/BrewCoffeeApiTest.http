@@ -1,0 +1,6 @@
+@BrewCoffeeApiTest_HostAddress = http://localhost:5070
+
+GET {{BrewCoffeeApiTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

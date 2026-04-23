@@ -1,0 +1,5 @@
+@BrewCoffeApi_HostAddress = https://localhost:7071
+
+GET {{BrewCoffeApi_HostAddress}}/brew-coffee
+
+###
