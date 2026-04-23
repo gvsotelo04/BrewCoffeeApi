@@ -1,0 +1,7 @@
+@BrewCoffeApi_HostAddress = https://localhost:7071
+
+GET {{BrewCoffeApi_HostAddress}}/brew-coffee
+
+###
+@apiKey = c9017f5ce4ff4b462019c09db8b89960
+GET https://api.openweathermap.org/data/2.5/weather?q=Manila&appid={{apiKey}}&units=metric
